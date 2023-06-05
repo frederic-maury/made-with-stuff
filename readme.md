@@ -106,20 +106,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
-Project Link: [https://github.com/mestrak/made-with-stuff](https://github.com/mestrak/made-with-stuff)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mestrak/made-with-stuff.svg?style=flat-square
-[contributors-url]: https://github.com/mestrak/made-with-stuff/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mestrak/made-with-stuff.svg?style=flat-square
-[forks-url]: https://github.com/mestrak/made-with-stuff/network/members
-[stars-shield]: https://img.shields.io/github/stars/mestrak/made-with-stuff.svg?style=flat-square
-[stars-url]: https://github.com/mestrak/made-with-stuff/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mestrak/made-with-stuff.svg?style=flat-square
-[issues-url]: https://github.com/mestrak/made-with-stuff/issues
-[license-shield]: https://img.shields.io/github/license/mestrak/made-with-stuff.svg?style=flat-square
-[license-url]: https://github.com/mestrak/made-with-stuff/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/james-strachan-1017361/
+This is a fork from the following project: [https://github.com/mestrak/made-with-stuff](https://github.com/mestrak/made-with-stuff)
