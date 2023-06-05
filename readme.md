@@ -41,11 +41,11 @@ Install the component in your project.
 
 
 ```sh
-yarn add @mestrak/made-with-stuff
+yarn add @mfrederic/made-with-stuff
 ```
 or
 ```sh
-npm install @mestrak/made-with-stuff
+npm install @mfrederic/made-with-stuff
 ```
 
 Then add it to the pages or components where you want to display it. Font style, etc. will be inherited from your existing css.
@@ -64,7 +64,7 @@ Set *:maxemojis* to an integer from 1-5 to adjust the size of the emojis (1 is s
 </template>
 
 <script lang="ts">
-import MadeWithStuff from "@mestrak/made-with-stuff";
+import MadeWithStuff from "@mfrederic/made-with-stuff";
 export default {
   components: {
     MadeWithStuff
@@ -72,14 +72,6 @@ export default {
 };
 </script>
 ```
-
-<!-- ROADMAP -->
-## Roadmap
-- Configurable emoji list
-- Random number of emojis
-- Badge style display
-- Fruit machine type shuffle when selecting emojis
-- Possibly some different icon/font choices
 
 <!-- CONTRIBUTING -->
 ## Contributing
